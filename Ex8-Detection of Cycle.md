@@ -1,6 +1,6 @@
 # Ex8 Detection of Cycle and Finding the Starting Node in a Linked List
 
-## DATE:03.09.2025  
+## DATE:29.08.2025  
 
 ### Developed by
 **Name:** SUSHIENDAR M
