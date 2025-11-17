@@ -1,6 +1,6 @@
 # Ex7 Removal of Nodes with a Specific Value from a Linked List
 
-## DATE:29.08.2025  
+## DATE:27.08.2025  
 
 ### Developed by
 **Name:** Sushiendar M
