@@ -103,7 +103,8 @@ public class FlattenNestedList {
 }
 ```
 ## OUTPUT
-<img width="949" height="67" alt="image" src="https://github.com/user-attachments/assets/9e88a4ec-8c02-403d-a67d-9c5af0fbcda1" />
+<img width="1295" height="307" alt="image" src="https://github.com/user-attachments/assets/bf57175d-4dff-43c9-952a-ee210e4e31bd" />
+
 
 ## RESULT
 The NestedIterator class successfully flattens a nested list of integers into a single list and provides sequential access using standard iterator methods.
