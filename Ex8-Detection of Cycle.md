@@ -71,7 +71,7 @@ public class DetectCycleLinkedList {
 ```
 ## OUTPUT
 
-<img width="943" height="60" alt="511969775-fc168040-99e7-4eed-adbd-c8abfa211799" src="https://github.com/user-attachments/assets/727a9970-0e5c-49ef-bc43-031c51c43e02" />
+<img width="1292" height="397" alt="image" src="https://github.com/user-attachments/assets/ad306c9f-4efb-4ba7-b814-7d808ec90d7f" />
 
 ## RESULT
 The program successfully detects whether a cycle exists in the linked list.
